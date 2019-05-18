@@ -1,4 +1,4 @@
-There is two java file. One is for server and the other one is for Client.
+There is two java file(Server.java & Client.java). One is for server and the other one is for Client.
 These java files are compiled (command : javac filename).
 Server is first started by executing the Server class(command: java Server). Then clients are connected to the server by executing Client class(command: java Client)(you have to execute the Client class for every client).
 1)Client and Server generates a key using the Diffey-Hellman key exchange algorithm for their communication.
