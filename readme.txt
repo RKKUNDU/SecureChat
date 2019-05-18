@@ -7,3 +7,4 @@ Server is first started by executing the Server class(command: java Server). The
 4)Server decrypts the message and send the message to the appropriate client(s) in encrypted form(Here the format is changed before encrypting. Format of the message is "sender_name : message").
 5)Reciver decrypts the message and shows the message.
 6)Client can send "logout" to log out.
+Every pair of Client and Server generates a key.
